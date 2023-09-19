@@ -2,3 +2,8 @@ body {
     color:yellow;
     margin: 4;
 }
+
+p {
+    color:aquamarine;
+    size: 20px;
+}
